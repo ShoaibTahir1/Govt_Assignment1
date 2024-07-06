@@ -35,7 +35,6 @@ console.log (`New guest to the middle of Arary: "${guests}"`);
 guests.push("Shoaib");
 console.log (`New guest to the end of Arary: "${guests}"`);
 
-
 // Message to each person, inviting them to dinner
 let message: string  = ("Good news! We found a bigger dinner table so  I am invited more peoples");
 
